@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "SapphireLab",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/EujBeTC1BGJxADbn9T0wbGqJ6FPBEyookALgiU1fvbhi1CQH5P",
+  "gitHubUrl": "https://github.com/Sapphire52000/Sapphire52000.github.io",
+  "workFolder": "_work"
+}
