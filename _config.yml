@@ -13,7 +13,7 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -28,7 +28,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://Sapphire52000.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: Sapphire52000 # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -36,7 +36,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: SeoKyeongKeun
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -69,7 +69,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light|dark]
+theme_mode: dardk
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
